@@ -4,7 +4,7 @@ Demo simulation for **"Breaking AI features before attackers do"** at DevFest Da
 
 A single-file browser app. The target is **CoffeeBot**, a fictional café support bot that holds a staff-only discount code and can issue refunds. The right panel fires ten attacks at it; the left panel lets you layer five defenses on and watch the attack success rate drop.
 
-**Live demo:** https://notnoobdude.github.io/redteam-lab/
+**Live demo:** https://northqa.github.io/redteam-lab/
 
 ## Run it
 
